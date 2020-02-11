@@ -255,7 +255,7 @@
         <div class="col-md-4">
             <div class="item">
                 <div class="box">
-                    <img src="#" alt="Jan Kowalski" class="thumb">
+                    <img src="./img/avatar2.png" alt="Jan Kowalski" class="thumb">
                 </div>
                 <h2 class="heading-5 name">Jan Kowalski</h2>
                 <p class="par-1 function">Prezes</p>
@@ -264,7 +264,7 @@
         <div class="col-md-4">
             <div class="item">
                 <div class="box">
-                    <img src="#" alt="Adam Nowak" class="thumb">
+                    <img src="./img/avatar3.png" alt="Adam Nowak" class="thumb">
                 </div>
                 <h2 class="heading-5 name">Adam Nowak</h2>
                 <p class="par-1 function">Dyrektor d/s marketingu</p>
@@ -273,7 +273,7 @@
         <div class="col-md-4">
             <div class="item">
                 <div class="box">
-                    <img src="#" alt="Jan Kowalski" class="thumb">
+                    <img src="./img/avatar.jpg" alt="Jan Kowalski" class="thumb">
                 </div>
                 <h2 class="heading-5 name">Jan Kowalski</h2>
                 <p class="par-1 function">Public Relations</p>
