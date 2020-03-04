@@ -61,22 +61,22 @@
             </div>
             <div class="col-lg-2">
                 <div class="item">
-                    <img src="./img/ikona-czas.png" alt="czas" class="thumb">
-                    <h4 class="heading-5">ZAWSZE NA CZAS</h4>
+                    <img src="./img/icons/zawsze_na_czas.png" alt="czas" class="thumb">
+<!--                    <h4 class="heading-5">ZAWSZE NA CZAS</h4>-->
                     <p class="par-1">Lorem ipsum dolor. Lorem <br> ipsum dolor sit amet.</p>
                 </div>
             </div>
             <div class="col-lg-2">
                 <div class="item">
-                    <img src="./img/ikona-eko.png" alt="eko" class="thumb">
-                    <h4 class="heading-5">DRUKUJEMY EKOLOGICZNIE</h4>
+                    <img src="./img/icons/drukujemy_ekologicznie.png" alt="eko" class="thumb">
+<!--                    <h4 class="heading-5">DRUKUJEMY EKOLOGICZNIE</h4>-->
                     <p class="par-1">Lorem ipsum dolor. Lorem <br> ipsum dolor sit amet.</p>
                 </div>
             </div>
             <div class="col-lg-2">
                 <div class="item">
-                    <img src="./img/ikona-asortyment.png" alt="asortyment" class="thumb">
-                    <h4 class="heading-5">SZEROKI ASORTYMENT</h4>
+                    <img src="./img/icons/szeroki_asrtyment.png" alt="asortyment" class="thumb">
+<!--                    <h4 class="heading-5">SZEROKI ASORTYMENT</h4>-->
                     <p class="par-1">Lorem ipsum dolor. Lorem <br> ipsum dolor sit amet.</p>
                 </div>
             </div>
@@ -95,7 +95,7 @@
         <div class="col-lg-4">
             <div class="item">
                 <div class="box">
-                    <img src="#" alt="Jan Kowalski" class="thumb">
+                    <img src="./img/labels48h-04-serialsticker-otw.png" alt="Jan Kowalski" class="thumb">
                 </div>
                 <h2 class="heading-5 name">Jan Kowalski</h2>
                 <p class="par-1 function">Prezes</p>
@@ -104,7 +104,7 @@
         <div class="col-lg-4">
             <div class="item">
                 <div class="box">
-                    <img src="#" alt="Adam Nowak" class="thumb">
+                    <img src="./img/labels48h-04-serialsticker-otw.png" alt="Adam Nowak" class="thumb">
                 </div>
                 <h2 class="heading-5 name">Adam Nowak</h2>
                 <p class="par-1 function">Dyrektor d/s marketingu</p>
@@ -113,7 +113,7 @@
         <div class="col-lg-4">
             <div class="item">
                 <div class="box">
-                    <img src="#" alt="Jan Kowalski" class="thumb">
+                    <img src="./img/labels48h-04-serialsticker-otw.png" alt="Jan Kowalski" class="thumb">
                 </div>
                 <h2 class="heading-5 name">Jan Kowalski</h2>
                 <p class="par-1 function">Public Relations</p>
@@ -126,6 +126,14 @@
 
 <?php include('references-part.php'); ?>
 
+
+
+<script>
+    $(document).ready(function () {
+        $('.header-part-index .menu li').removeClass('active');
+        $('.header-part-index .menu li#o-nas').addClass('active');
+    });
+</script>
 
 
 <?php require_once('_footer.php'); ?>

@@ -7,6 +7,9 @@
 
     <title>Multicolor</title>
 
+    <link rel="icon" href="./img/favicon.png" type="image/png">
+
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500,700&display=swap" rel="stylesheet">
 
     <link rel="stylesheet" href="./css/fontawesome.min.css">
     <link rel="stylesheet" href="./css/bootstrap.css">
@@ -24,7 +27,7 @@
 <header class="container-fluid header-part-index">
     <div class="row nav-row">
         <div class="col-lg-auto d-flex align-items-center justify-content-between">
-            <a href="#" class="logo" title="Drukarnia / Printing House Multicolor">
+            <a href="home.php" class="logo" title="Drukarnia / Printing House Multicolor">
                 <img src="./img/multicolor-logo-60h.png" alt="Drukarnia Multicolor">
             </a>
             <button onclick="toggleMenu()" class="btn btn-link text-dark menu-btn"><i class="fa fa-bars"></i></button>
@@ -33,26 +36,18 @@
             <div class="box nav-box">
                 <nav class="menu">
                     <ul>
-                        <li class="active">
-                            <a href="#start">Start</a>
+                        <li id="o-nas">
+                            <a href="o-nas.php">O nas</a>
                         </li>
-
-                        <li>
-                            <a href="#o-nas">O nas</a>
+                        <li id="oferta">
+                            <a href="oferta.php"">Oferta</a>
                         </li>
-
-                        <li>
-                            <a href="#oferta">Oferta</a>
+                        <li id="projekty">
+                            <a href="projekty-i-przetargi.php">Projekty i Przetargi</a>
                         </li>
-
-                        <li>
-                            <a href="#top">Przetargi</a>
-                        </li>
-
-                        <li>
+                        <li id="kontakt">
                             <a href="#kontakt">Kontakt</a>
                         </li>
-
                         <li>
                             <a href="https://sklep.multicolordrukarnia.pl/">Sklep</a>
                         </li>
