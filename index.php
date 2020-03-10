@@ -1,234 +1,148 @@
 <?php require_once('_header.php'); ?>
 
-<div class="row slider-row">
-    <div class="col">
-        <div class="header-slider">
+
+<section class="home-index">
+
+
+    <section class="header-section">
+        <div class="slider-row">
             <div class="slide">
-                <div class="row">
-                    <div class="col-lg-4">
-                        <div class="box">
-                            <img src="./img/labels48h-logo.png" alt="Labels 48h" class="labels">
-                            <div>
-                                <h5 class="label-pink">Nowość</h5>
-                                <h4 class="heading-4">Nowa linia etykiet Multicolor LABELS48h to unikalne rozwiązania
-                                    wzornicze i szybka realizacja.</h4>
-                                <p class="label-bottom">Gotowe w 48 godzin!</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-8">
-                        <div class="slider-img">
-                            <img src="./img/slider/img-1.jpg" alt="slider 1" class="thumb">
-                        </div>
-                    </div>
-                </div>
+                <img src="./static/image/bg-2.jfif" alt="test">
             </div>
             <div class="slide">
-                <div class="row">
-                    <div class="col-lg-4">
-                        <div class="box">
-                            <img src="./img/labels48h-logo.png" alt="Labels 48h" class="labels">
-                            <div>
-                                <h5 class="label-pink">Nowość</h5>
-                                <h4 class="heading-4">Poznaj asortyment LABELS48h i wbierz własną etykietę.</h4>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-8">
-                        <div class="slider-img">
-                            <img src="./img/slider/img-2.jpg" alt="slider 2" class="thumb">
-                        </div>
+                <img src="./static/image/bg-2.jfif" alt="test">
+            </div>
+        </div>
+
+
+        <div class="container">
+            <div class="row heading-row">
+                <div class="col-12">
+                    <div class="content">
+                        <h2 class="heading-2 text">Drukarnia Multicolor to dynamicznie rozwijająca się rodzinna firma
+                            działająca na rynku polskim i europejskim od 2004 r. Jesteśmy wiodącym producentem etykiet
+                            typu booklet na polskim rynku. Zaufaj naszemu doświadczeniu.</h2>
                     </div>
                 </div>
             </div>
         </div>
-    </div>
-</div>
-</header>
+    </section>
 
 
-<section class="container">
-    <div class="row heading-part-index">
-        <div class="col-lg-6">
-            <h2 class="heading-2 title">Więcej produktów <br> w naszym sklepie</h2>
-            <a href="#oferta" class="link">SPRAWDŹ OFERTĘ <i class="fas fa-arrow-right"></i></a>
+    <section class="what-we-do-section">
+        <div class="container">
+            <div class="row icons-row">
+                <div class="col-sm-6 col-md-4 col-lg-2">
+                    <div class="item">
+                        <img src="./static/image/icons/szeroki_asortyment.png" alt="szeroki asortyment">
+                    </div>
+                </div>
+                <div class="col-sm-6 col-md-4 col-lg-2">
+                    <div class="item">
+                        <img src="./static/image/icons/zawsze_na_czas.png" alt="zawsze na czas">
+                    </div>
+                </div>
+                <div class="col-sm-6 col-md-4 col-lg-2">
+                    <div class="item">
+                        <img src="./static/image/icons/drukujemy_ekologicznie.png" alt="drukujemy ekologicznie">
+                    </div>
+                </div>
+                <div class="col-sm-6 col-md-4 col-lg-2">
+                    <div class="item">
+                        <img src="./static/image/icons/atrakcyjne_ceny.png" alt="atrakcyjne ceny">
+                    </div>
+                </div>
+                <div class="col-sm-6 col-md-4 col-lg-2">
+                    <div class="item">
+                        <img src="./static/image/icons/wlasny_transport.png" alt="własny transport">
+                    </div>
+                </div>
+                <div class="col-sm-6 col-md-4 col-lg-2">
+                    <div class="item">
+                        <img src="./static/image/icons/produkt_polski.png" alt="produkt polski">
+                    </div>
+                </div>
+            </div>
+
+            <div class="row main-row">
+                <div class="col-md-8 col-lg-6">
+                    <div class="content">
+                        <h2 class="heading-2 title">Co robimy?</h2>
+                        <p class="par-1 text">Oferujemy usługi w zakresie druku offsetowego, cyfrowego,
+                            fleksograficznego, a takze przetwarzania druku w pełnym zakresie prac introligatorskich jak
+                            i projektowania graficznego.</p>
+                    </div>
+                </div>
+            </div>
         </div>
-        <div class="col-lg-6">
+    </section>
+
+
+    <section class="meet-us-section">
+        <div class="container-fluid">
+            <div class="row main-row">
+                <div class="col-md-6 col-lg-8">
+                    film ... ?
+                </div>
+                <div class="col-md-6 col-lg-4">
+                    <div class="content">
+                        <h2 class="heading-1 title">Poznaj nas!</h2>
+                        <p class="par-1">Multicolor to:</p>
+                        <ul class="list-primary">
+                            <li>Bogaty asortyment usług</li>
+                            <li>Wiele technologii druku w jednym miejscu</li>
+                            <li>Zmienne znakowanie</li>
+                            <li>Terminowość</li>
+                            <li>Ekologia</li>
+                            <li>Gwarancja jakości Multicolor</li>
+                            <li>Atrakcyjne ceny</li>
+                            <li>Indywidualne podejście do każdego projektu</li>
+                            <li>Doświadczona kadra</li>
+                        </ul>
+                        <a href="#" class="link">Czytaj więcej <i class="fas fa-angle-right"></i></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+
+    <section class="labels48h-heading-section">
+        <div class="container">
+            <div class="row main-row">
+                <div class="col-12">
+                    <div class="content">
+                        <h2 class="heading-2 text">Nowa linia etykiet LABELS48h - etykiety gotowe już w 48 godzin!</h2>
+                        <h2 class="heading-2 text">Różnorodna funkcjonalność.</h2>
+                        <a href="#" class="link">Czytaj więcej <i class="fas fa-angle-right"></i></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+
+    <section class="labels48h-section">
+        <div class="container">
             <div class="row">
-                <div class="col-sm-4">
-                    <img src="./img/labels48h-01-easygrip-otw.png" alt="easygrip-1" class="thumb">
-                </div>
-                <div class="col-sm-4">
-                    <img src="./img/labels48h-01-easygrip-otw.png" alt="easygrip-1" class="thumb">
-                </div>
-                <div class="col-sm-4">
-                    <img src="./img/labels48h-01-easygrip-otw.png" alt="easygrip-1" class="thumb">
+                <div class="col-12">
+                    <img src="./static/image/labels48_1.jpg" alt="labels48" class="thumb">
                 </div>
             </div>
         </div>
-    </div>
-</section>
+    </section>
 
 
-<section class="container-fluid who-we-are-part-index">
-    <div class="container">
-        <div class="row who-we-are-row">
-            <div class="col-lg-6">
-                <h4 class="heading-4 title">KIM JESTEŚMY</h4>
-                <p class="heading-3 text1">Drukarnia Multicolor to
-                    dynamicznie rozwijająca się
-                    rodzinna firma działająca na
-                    rynku polskim i europejskim od
-                    2004 roku.</p>
-                <p class="text2">Firma oferuje usługi w zakresie druku offsetowego,
-                    cyfrowego, fleksograficznego, a także przetwarzania >
-                    druku w pełnym zakresie prac introligatorskich jak i
-                    projektowania graficznego.</p>
-                <a href="#o-nas" class="link">CZYTAJ WIĘCEJ <i class="fas fa-arrow-right"></i></a>
-            </div>
-            <div class="col-lg-6">
-                <div class="item">
-                    <!--                    <img src="./img/labels48h-01-easygrip-otw.png" alt="video" class="video">-->
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-
-
-<section class="container">
-    <div class="row what-we-do-part-index">
-        <div class="col-12">
-            <h4 class="heading-4 title">CO ROBIMY</h4>
-        </div>
-
-        <div class="col-lg-4">
-            <div class="box">
-                <div class="item">
-                    <img src="./img/ikona-czas.png" alt="czas" class="thumb">
-                    <h4 class="heading-5">ZAWSZE NA CZAS</h4>
-                    <p class="par-1">Lorem ipsum dolor. Lorem <br> ipsum dolor sit amet.</p>
-                </div>
-            </div>
-        </div>
-        <div class="col-lg-4">
-            <div class="box">
-                <div class="item">
-                    <img src="./img/ikona-eko.png" alt="eko" class="thumb">
-                    <h4 class="heading-5">DRUKUJEMY EKOLOGICZNIE</h4>
-                    <p class="par-1">Lorem ipsum dolor. Lorem <br> ipsum dolor sit amet.</p>
-                </div>
-            </div>
-        </div>
-        <div class="col-lg-4">
-            <div class="box">
-                <div class="item">
-                    <img src="./img/ikona-asortyment.png" alt="asortyment" class="thumb">
-                    <h4 class="heading-5">SZEROKI ASORTYMENT</h4>
-                    <p class="par-1">Lorem ipsum dolor. Lorem <br> ipsum dolor sit amet.</p>
-                </div>
-            </div>
-        </div>
-
-        <div class="col-12">
-            <div class="text-box">
-                <h3 class="heading-3">Produkujemy najwyższej jakości
-                    etykiety, doprecyzowane do
-                    potrzeb naszych klientów.</h3>
-                <p class="par-1">Począwszy od etykiet typu Booklet, posiadamy w
-                    sprzedaży etykiety na roli z nadrukiem na odwrocie,
-                    etykiety Blanko, etykiety na produkty spożywcze,
-                    etykiety Sandwich i wiele, wiele innych.</p>
-                <a href="#o-nas" class="link">CZYTAJ WIĘCEJ <i class="fas fa-arrow-right"></i></a>
-            </div>
-        </div>
-    </div>
-</section>
-
-
-<section class="container-fluid">
-    <div class="row references-part-index">
-        <div class="col-lg-6">
-            <div class="box">
-                <i class="fas fa-quote-right big-quote"></i>
-                <h2 class="heading-1">Co o nas <br> mówią?</h2>
-            </div>
-        </div>
-        <div class="col-lg-6">
-            <div class="position-relative">
-                <div class="references-slider">
-                    <div class="slide">
-                        <div class="item">
-                            <p class="par-2">Etykiety prezentują produkt z
-                                jak najlepszej perspektywy </p>
-                            <div class="box-author">
-                                <img src="./img/icons/produkt_polski.png" alt="zdjecie" class="thumb">
-                                <div class="content">
-                                    <span class="author">Jan Kowalski</span>
-                                    <span class="company">Polfarma</span>
-                                </div>
-                            </div>
-                            <i class="fas fa-quote-right quote"></i>
-                        </div>
-                    </div>
-                    <div class="slide">
-                        <div class="item">
-                            <p class="par-2">Bardzo często zdarza się, że
-                                ulotka produktu zostaje
-                                utracona bądź najzwyczajniej
-                                ląduje w koszu. Etykieta
-                                Booklet, przymocowana do
-                                produktu wyklucza takie
-                                sytuacje i chroni konsumentów
-                                przed niepoprawnym
-                                użytkowaniem narażającym ich
-                                zdrowie, życie.</p>
-                            <div class="box-author">
-                                <img src="./img/icons/produkt_polski.png" alt="zdjecie" class="thumb">
-                                <div class="content">
-                                    <span class="author">Adam Nowak</span>
-                                    <span class="company">Agros N</span>
-                                </div>
-                            </div>
-                            <i class="fas fa-quote-right quote"></i>
-                        </div>
-                    </div>
-                    <div class="slide">
-                        <div class="item">
-                            <p class="par-2">Bardzo często zdarza się, że
-                                ulotka produktu zostaje
-                                utracona bądź najzwyczajniej
-                                ląduje w koszu. Etykieta
-                                Booklet, przymocowana do
-                                produktu wyklucza takie
-                                sytuacje i chroni konsumentów
-                                przed niepoprawnym
-                                użytkowaniem narażającym ich
-                                zdrowie, życie.</p>
-                            <div class="box-author">
-                                <img src="./img/icons/produkt_polski.png" alt="zdjecie" class="thumb">
-                                <div class="content">
-                                    <span class="author">Adam Nowak</span>
-                                    <span class="company">Agros N</span>
-                                </div>
-                            </div>
-                            <i class="fas fa-quote-right quote"></i>
-                        </div>
-                    </div>
-                </div>
-                <div class="arrow-right"></div>
-            </div>
-        </div>
-    </div>
 </section>
 
 
 <script>
-    $(document).ready(function () {
-        $('.header-part-index .menu li').removeClass('active');
-    });
+    setActiveMenuItem('home-index');
 </script>
 
 
 <?php require_once('_footer.php'); ?>
+
 
