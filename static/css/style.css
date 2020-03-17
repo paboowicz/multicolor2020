@@ -302,6 +302,12 @@ a:hover {
   margin: 0;
   padding: 0;
 }
+@media (min-width: 1262px) {
+  .header-global .main-row .menu ul {
+    display: flex;
+    align-items: center;
+  }
+}
 .header-global .main-row .menu ul > li {
   display: inline-block;
   margin: 0 20px;
@@ -325,6 +331,12 @@ a:hover {
   .header-global .main-row .menu ul > li > a {
     font-size: 1rem;
   }
+}
+.header-global .main-row .menu ul > li > a img {
+  display: block;
+  max-height: 55px;
+  width: auto;
+  margin: 0 auto 3px;
 }
 .header-global .main-row .menu ul > li:hover {
   border-color: #000;

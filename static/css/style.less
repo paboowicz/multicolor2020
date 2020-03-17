@@ -367,6 +367,11 @@ a {
         margin: 0;
         padding: 0;
 
+        @media(min-width: @lg-brake) {
+          display: flex;
+          align-items: center;
+        }
+
         >li {
           display: inline-block;
           margin: 0 20px;
@@ -388,6 +393,13 @@ a {
 
             @media(max-width: @lg-brake) {
               font-size: 1rem;
+            }
+
+            img {
+              display: block;
+              max-height: 55px;
+              width: auto;
+              margin: 0 auto 3px;
             }
           }
 

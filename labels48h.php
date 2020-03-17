@@ -158,6 +158,14 @@
 </section>
 
 
+
+
+<script>
+    setActiveMenuItem('labels48h-index');
+</script>
+
+
+
 <?php require_once('_footer.php'); ?>
 
 
