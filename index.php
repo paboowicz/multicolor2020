@@ -7,10 +7,16 @@
     <section class="header-section">
         <div class="slider-row">
             <div class="slide">
-                <img src="./static/image/bg-2.jfif" alt="test">
+                <img src="./static/image/slider/slider_labels48_01.jpg" alt="test">
+            </div>
+			<div class="slide">
+                <img src="./static/image/slider/slider_onas_01.jpg" alt="test">
+            </div>
+			<div class="slide">
+                <img src="./static/image/slider/slider_labels48_03.jpg" alt="test">
             </div>
             <div class="slide">
-                <img src="./static/image/bg-2.jfif" alt="test">
+                <img src="./static/image/slider/bg-2.jfif" alt="test">
             </div>
         </div>
 
@@ -82,7 +88,7 @@
         <div class="container-fluid">
             <div class="row main-row">
                 <div class="col-md-6 col-lg-8">
-                    film ... ?
+                   <iframe width="980" height="550" src="https://www.youtube.com/embed/_G4vDxG440M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 </div>
                 <div class="col-md-6 col-lg-4">
                     <div class="content">

@@ -34,7 +34,7 @@
                 </div>
                 <div class="col-lg-6">
                     <div class="thumb">
-                        <img src="./static/image/labels48_1.jpg" alt="" class="img-fluid">
+                        <img src="./static/image/kontakt_01.png" alt="" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-12">
