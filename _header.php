@@ -44,7 +44,7 @@
                         <li id="offer-index"><a href="oferta.php">Oferta</a></li>
                         <li id="projects-and-auctions-index"><a href="projekty-i-przetargi.php">Projekty i Przetargi</a></li>
                         <li id="contact-index"><a href="kontakt.php">Kontakt</a></li>
-                        <li><a href="#">Sklep</a></li>
+                        <li><a href="https://sklep.multicolordrukarnia.pl/" target="_blank">Sklep</a></li>
                         <li id="labels48h-index"><a href="labels48h.php" class="menu-item1"><img src="./static/image/labels48h-logo.png" alt="labes"></a></li>
                     </ul>
 
