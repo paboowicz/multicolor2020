@@ -7,13 +7,13 @@
     <section class="header-section">
         <div class="slider-row">
             <div class="slide">
-                <img src="./static/image/slider/slider_labels48_01.jpg" alt="test">
-            </div>
-			<div class="slide">
                 <img src="./static/image/slider/slider_onas_01.jpg" alt="test">
             </div>
 			<div class="slide">
-                <img src="./static/image/slider/slider_labels48_03.jpg" alt="test">
+                <img src="./static/image/slider/slider_onas_02.jpg" alt="test">
+            </div>
+			<div class="slide">
+                <img src="./static/image/slider/slider_onas_03.jpg" alt="test">
             </div>
             <div class="slide">
                 <img src="./static/image/slider/bg-2.jfif" alt="test">

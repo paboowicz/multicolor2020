@@ -38,16 +38,16 @@
 
         <div class="row">
             <div class="col-lg-6">
-                <div class="links">
+                <!--<div class="links">
                     <a href="#" class="heading-4">Polityka prywatności</a>
                     <a href="#" class="heading-4">Regulamin</a>
-                </div>
+                </div> -->
             </div>
             <div class="col-lg-6 d-flex justify-content-end">
                 <div class="links">
                     <a href="#" class="heading-4"><i class="fab fa-facebook-f"></i></a>
-                    <a href="#" class="heading-4"><i class="fab fa-twitter"></i></a>
-                    <a href="#" class="heading-4"><i class="fab fa-linkedin"></i></a>
+                    <!--<a href="#" class="heading-4"><i class="fab fa-twitter"></i></a>
+                    <a href="#" class="heading-4"><i class="fab fa-linkedin"></i></a>  -->
                     <a href="#" class="heading-4"><i class="fab fa-instagram"></i></a>
                 </div>
             </div>
