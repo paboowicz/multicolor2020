@@ -155,7 +155,8 @@
                                 częściowemu zniszczeniu</p>
                             <br>
                             <h4 class="download-text">Do pobrania</h4>
-                            <a href="#" class="download-link">Katalog LABELS48h</a>
+                            <a href="./static/image/labels48h_katalog_pl.pdf" target="_blank" class="download-link">Katalog LABELS48h-PL</a>
+							<a href="./static/image/labels48h_katalog_en.pdf" target="_blank" class="download-link">Katalog LABELS48h-EN</a>
                         </div>
                     </div>
                 </div>

@@ -45,7 +45,7 @@
             </div>
             <div class="col-lg-6 d-flex justify-content-end">
                 <div class="links">
-                    <a href="#" class="heading-4"><i class="fab fa-facebook-f"></i></a>
+                    <a href="https://www.facebook.com/multicolordrukarnia/" target="_blank" class="heading-4"><i class="fab fa-facebook-f"></i></a>
                    <!-- <a href="#" class="heading-4"><i class="fab fa-twitter"></i></a>
                     <a href="#" class="heading-4"><i class="fab fa-linkedin"></i></a> -->
                     <a href="#" class="heading-4"><i class="fab fa-instagram"></i></a>
