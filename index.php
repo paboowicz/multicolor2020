@@ -45,32 +45,32 @@
             <div class="row icons-row">
                 <div class="col-sm-6 col-md-4 col-lg-2">
                     <div class="item">
-                        <img src="./static/image/icons/szeroki_asortyment.png" alt="szeroki asortyment">
+                        <img src="./static/image/icons/ikony_set_01.png" alt="szeroki asortyment">
                     </div>
                 </div>
                 <div class="col-sm-6 col-md-4 col-lg-2">
                     <div class="item">
-                        <img src="./static/image/icons/zawsze_na_czas.png" alt="zawsze na czas">
+                        <img src="./static/image/icons/ikony_set_02.png" alt="zawsze na czas">
                     </div>
                 </div>
                 <div class="col-sm-6 col-md-4 col-lg-2">
                     <div class="item">
-                        <img src="./static/image/icons/drukujemy_ekologicznie.png" alt="drukujemy ekologicznie">
+                        <img src="./static/image/icons/ikony_set_03.png" alt="drukujemy ekologicznie">
                     </div>
                 </div>
                 <div class="col-sm-6 col-md-4 col-lg-2">
                     <div class="item">
-                        <img src="./static/image/icons/atrakcyjne_ceny.png" alt="atrakcyjne ceny">
+                        <img src="./static/image/icons/ikony_set_04.png" alt="atrakcyjne ceny">
                     </div>
                 </div>
                 <div class="col-sm-6 col-md-4 col-lg-2">
                     <div class="item">
-                        <img src="./static/image/icons/wlasny_transport.png" alt="własny transport">
+                        <img src="./static/image/icons/ikony_set_05.png" alt="własny transport">
                     </div>
                 </div>
                 <div class="col-sm-6 col-md-4 col-lg-2">
                     <div class="item">
-                        <img src="./static/image/icons/produkt_polski.png" alt="produkt polski">
+                        <img src="./static/image/icons/ikony_set_06.png" alt="produkt polski">
                     </div>
                 </div>
             </div>
