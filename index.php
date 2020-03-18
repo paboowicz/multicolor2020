@@ -5,18 +5,23 @@
 
 
     <section class="header-section">
-        <div class="slider-row">
-            <div class="slide">
-                <img src="./static/image/slider/slider_onas_01.jpg" alt="test">
-            </div>
-			<div class="slide">
-                <img src="./static/image/slider/slider_onas_02.jpg" alt="test">
-            </div>
-			<div class="slide">
-                <img src="./static/image/slider/slider_onas_03.jpg" alt="test">
-            </div>
-            <div class="slide">
-                <img src="./static/image/slider/bg-2.jfif" alt="test">
+        <div class="home-slider">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12">
+                        <div class="slider-row">
+							<a href="labels48h.php" class="slide">
+                                <img src="./static/image/slider/slider_onas_01.jpg" alt="test">
+                            </a>
+							<a href="labels48h.php" class="slide">
+                                <img src="./static/image/slider/slider_onas_02.jpg" alt="test">
+                            </a>                            
+                            <a href="labels48h.php" class="slide">
+                                <img src="./static/image/slider/slider_onas_03.jpg" alt="test">
+                            </a>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
 
@@ -85,12 +90,17 @@
 
 
     <section class="meet-us-section">
-        <div class="container-fluid">
+        <div class="container">
             <div class="row main-row">
-                <div class="col-md-6 col-lg-8">
-                   <iframe width="980" height="550" src="https://www.youtube.com/embed/_G4vDxG440M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <div class="col-lg-8">
+                    <div class="video">
+                        <iframe src="https://www.youtube.com/embed/_G4vDxG440M"
+                                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                                allowfullscreen=""
+                                frameborder="0"></iframe>
+                    </div>
                 </div>
-                <div class="col-md-6 col-lg-4">
+                <div class="col-lg-4">
                     <div class="content">
                         <h2 class="heading-1 title">Poznaj nas!</h2>
                         <p class="par-1">Multicolor to:</p>
@@ -105,13 +115,12 @@
                             <li>Indywidualne podejście do każdego projektu</li>
                             <li>Doświadczona kadra</li>
                         </ul>
-                        <a href="#" class="link">Czytaj więcej <i class="fas fa-angle-right"></i></a>
+                        <a href="oferta.php" class="link">Czytaj więcej <i class="fas fa-angle-right"></i></a>
                     </div>
                 </div>
             </div>
         </div>
     </section>
-
 
 
     <section class="labels48h-heading-section">
@@ -121,13 +130,12 @@
                     <div class="content">
                         <h2 class="heading-2 text">Nowa linia etykiet LABELS48h - etykiety gotowe już w 48 godzin!</h2>
                         <h2 class="heading-2 text">Różnorodna funkcjonalność.</h2>
-                        <a href="#" class="link">Czytaj więcej <i class="fas fa-angle-right"></i></a>
+                        <a href="labels48h.php" class="link">Czytaj więcej <i class="fas fa-angle-right"></i></a>
                     </div>
                 </div>
             </div>
         </div>
     </section>
-
 
 
     <section class="labels48h-section">

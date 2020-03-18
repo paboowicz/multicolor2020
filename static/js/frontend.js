@@ -20,6 +20,9 @@ $(document).ready(() => {
 
 
     $('.home-index .slider-row').slick({
+        adaptiveHeight: true,
+        autoplay: true,
+        speed: 1500,
         responsive: [
             {
                 breakpoint: 576,
@@ -32,6 +35,9 @@ $(document).ready(() => {
 
 
     $('.labels48h-index .slider-row').slick({
+        adaptiveHeight: true,
+        autoplay: true,
+        speed: 1500,
         responsive: [
             {
                 breakpoint: 576,

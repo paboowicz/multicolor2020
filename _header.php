@@ -40,7 +40,7 @@
             <div class="col-lg">
                 <nav class="menu">
                     <ul>
-                        <!--<li class="active" id="home-index"><a href="index.php">O nas</a></li>-->
+                        <!--<li class="active" id="home-index"><a href="home.php">O nas</a></li>-->
                         <li id="offer-index"><a href="oferta.php">Oferta</a></li>
                         <li id="projects-and-auctions-index"><a href="projekty-i-przetargi.php">Projekty i Przetargi</a></li>
                         <li id="contact-index"><a href="kontakt.php">Kontakt</a></li>

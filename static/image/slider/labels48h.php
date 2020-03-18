@@ -46,14 +46,11 @@
                 <div class="col-12">
                     <div class="slider-row">
                         <div class="slide">
-                            <img src="./static/image/slider/slider_labels48_01.jpg" alt="test">
+                            <img src="./static/image/labels48_1.jpg" alt="test">
                         </div>
-						<div class="slide">
-                            <img src="./static/image/slider/slider_labels48_02.jpg" alt="test">
+                        <div class="slide">
+                            <img src="static/image/labels48_2.jpg" alt="test">
                         </div>
-						<div class="slide">
-                            <img src="./static/image/slider/slider_labels48_03.jpg" alt="test">
-                        </div>                        
                     </div>
                 </div>
             </div>

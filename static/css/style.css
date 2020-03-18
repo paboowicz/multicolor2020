@@ -166,13 +166,15 @@ a:hover {
 }
 .slider-row {
   position: relative;
-  padding: 4px 0 0;
   z-index: 400;
+  height: auto !important;
   min-height: 300px;
+}
+.slider-row .slick-list .slick-slide {
+  height: auto;
 }
 .slider-row .slide img {
   width: 100%;
-  height: 100%;
   object-fit: cover;
 }
 .slider-row .slick-arrow {
@@ -416,6 +418,10 @@ a:hover {
 .home-index .header-section {
   background: #eaeaea;
 }
+.home-index .header-section .home-slider {
+  background: #fff;
+  border-top: 4px solid #eaeaea;
+}
 .home-index .header-section .heading-row .content {
   padding: 75px 0;
   text-align: center;
@@ -435,6 +441,7 @@ a:hover {
 .home-index .what-we-do-section .icons-row .item img {
   display: block;
   width: auto;
+  max-width: 100%;
   margin: 0 auto;
 }
 .home-index .what-we-do-section .main-row {
@@ -449,6 +456,30 @@ a:hover {
 }
 .home-index .meet-us-section {
   background: #f17d97;
+}
+.home-index .meet-us-section .main-row .video {
+  margin-left: -15px;
+}
+@media (max-width: 1262px) {
+  .home-index .meet-us-section .main-row .video {
+    margin-right: -15px;
+  }
+}
+.home-index .meet-us-section .main-row .video iframe {
+  display: block;
+  width: 100%;
+  height: 100%;
+  min-height: 400px;
+}
+@media (min-width: 868px) {
+  .home-index .meet-us-section .main-row .video iframe {
+    min-height: 500px;
+  }
+}
+@media (max-width: 576px) {
+  .home-index .meet-us-section .main-row .video iframe {
+    min-height: 300px;
+  }
 }
 .home-index .meet-us-section .main-row .content {
   color: #fff;
@@ -501,6 +532,7 @@ a:hover {
 .offer-index .offer-section .icons-row .item img {
   display: block;
   width: auto;
+  max-width: 100%;
   margin: 0 auto;
 }
 .offer-index .offer-section .thumb-row img {
