@@ -45,15 +45,15 @@
             <div class="row">
                 <div class="col-12">
                     <div class="slider-row">
-                        <div class="slide">
+                        <a href="https://sklep.multicolordrukarnia.pl" target="blank" class="slide">
                             <img src="./static/image/slider/slider_labels48_01.jpg" alt="test">
-                        </div>
-						<div class="slide">
+                        </a>
+						<a href="https://sklep.multicolordrukarnia.pl/variant/etykieta-easy-grip-easy-grip" target="blank" class="slide">
                             <img src="./static/image/slider/slider_labels48_02.jpg" alt="test">
-                        </div>
-						<div class="slide">
+                        </a>
+						<a href="https://sklep.multicolordrukarnia.pl/variant/etykieta-vision-plus-vision-plus" target="blank" class="slide">
                             <img src="./static/image/slider/slider_labels48_03.jpg" alt="test">
-                        </div>                        
+                        </a>                        
                     </div>
                 </div>
             </div>

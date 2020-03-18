@@ -10,7 +10,7 @@
                 <div class="row">
                     <div class="col-12">
                         <div class="slider-row">
-							<a href="labels48h.php" class="slide">
+							<a href="kontakt.php" class="slide">
                                 <img src="./static/image/slider/slider_onas_01.jpg" alt="test">
                             </a>
 							<a href="labels48h.php" class="slide">
