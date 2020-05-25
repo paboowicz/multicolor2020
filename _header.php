@@ -36,6 +36,9 @@
 
                 <button class="menu-toggle-button"><i class="fa fa-bars"></i></button>
             </div>
+			<div class="col-lg-auto d-flex justify-content-between align-items-center">
+                <img src="./static/image/ue-logo.png" alt="multicolor">               
+            </div>
             
             <div class="col-lg">
                 <nav class="menu">
