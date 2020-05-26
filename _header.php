@@ -4,7 +4,7 @@
 
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-    <title>Base template</title>
+    <title>Drukarnia Multicolor</title>
 
     <link rel="icon" href="./static/image/favicon.png" type="image/png">
 
@@ -29,18 +29,21 @@
 
     <section class="container">
         <div class="row main-row">
-            <div class="col-lg-auto d-flex justify-content-between align-items-center">
+            <div class="col-md-6 col-xl-auto d-flex justify-content-between align-items-center">
                 <a href="index.php" title="multicolor" class="logo">
                     <img src="./static/image/logo.png" alt="multicolor">
                 </a>
 
                 <button class="menu-toggle-button"><i class="fa fa-bars"></i></button>
             </div>
-			<div class="col-lg-auto d-flex justify-content-between align-items-center">
-                <img src="./static/image/ue-logo.png" alt="multicolor">               
+
+			<div class="col-md-6 col-xl">
+                <div class="img-box">
+                    <img src="./static/image/ue-logo.png" alt="multicolor" class="img-fluid">
+                </div>
             </div>
             
-            <div class="col-lg">
+            <div class="col-md-12 col-xl-auto">
                 <nav class="menu">
                     <ul>
                         <!--<li class="active" id="home-index"><a href="home.php">O nas</a></li>-->

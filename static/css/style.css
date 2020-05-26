@@ -255,6 +255,22 @@ a:hover {
 .header-global .main-row .logo.fixed-logo img {
   height: 20px;
 }
+.header-global .main-row .img-box {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}
+@media (max-width: 1600px) {
+  .header-global .main-row .img-box {
+    justify-content: flex-end;
+  }
+}
+@media (max-width: 868px) {
+  .header-global .main-row .img-box {
+    margin-top: 1em;
+  }
+}
 .header-global .main-row .menu-toggle-button {
   display: none;
   border: none;
@@ -265,7 +281,7 @@ a:hover {
   border-radius: 0 0 0 15px;
   z-index: 1200;
 }
-@media (max-width: 1262px) {
+@media (max-width: 868px) {
   .header-global .main-row .menu-toggle-button {
     display: inline-block;
     font-size: 1rem;
@@ -282,7 +298,12 @@ a:hover {
   justify-content: flex-end;
   align-items: center;
 }
-@media (max-width: 1262px) {
+@media (max-width: 1600px) {
+  .header-global .main-row .menu {
+    margin-top: 2em;
+  }
+}
+@media (max-width: 868px) {
   .header-global .main-row .menu {
     position: fixed;
     top: 0;
@@ -304,7 +325,7 @@ a:hover {
   margin: 0;
   padding: 0;
 }
-@media (min-width: 1262px) {
+@media (min-width: 868px) {
   .header-global .main-row .menu ul {
     display: flex;
     align-items: center;
@@ -315,7 +336,10 @@ a:hover {
   margin: 0 20px;
   border-bottom: 2px solid transparent;
 }
-@media (max-width: 1262px) {
+.header-global .main-row .menu ul > li:first-child {
+  margin-left: 0;
+}
+@media (max-width: 868px) {
   .header-global .main-row .menu ul > li {
     display: block;
     text-align: center;
@@ -329,7 +353,7 @@ a:hover {
   font-size: 1.25rem;
   text-decoration: none;
 }
-@media (max-width: 1262px) {
+@media (max-width: 868px) {
   .header-global .main-row .menu ul > li > a {
     font-size: 1rem;
   }
@@ -352,12 +376,12 @@ a:hover {
   color: #000;
   margin: 0 20px;
 }
-@media (max-width: 1262px) {
+@media (max-width: 868px) {
   .header-global .main-row .menu .menu-item {
     margin-bottom: 25px;
   }
 }
-@media (min-width: 1262px) {
+@media (min-width: 868px) {
   .header-global .main-row .menu .menu-item:last-child {
     margin-right: 0;
   }
