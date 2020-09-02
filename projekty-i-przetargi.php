@@ -45,7 +45,7 @@
                             <li>Uzyskanie dodatkowych zysków z tyt. wypracowanych przychodów z nowych produktów</li>
                         </ol>
                         <br>
-                        <p>Wartość projektu: 4 397 930,00 zł</p>
+                        <p>Wartość projektu: 4 509 058,96 zł</p>
                         <br>
                         <p>Dofinansowanie z UE: 2 999 600,00 z</p>
                         <br>
