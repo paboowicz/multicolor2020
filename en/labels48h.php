@@ -9,22 +9,11 @@
             <div class="row main-row">
                 <div class="col-12">
                     <div class="content">
-                        <h2 class="heading-2 title">Nowa linia etykiet LABELS48h</h2>
-                        <h1 class="heading-3 subtitle">Etykiety LABELS48h — unikalne rozwiązania wzornicze i szybka
-                            realizacja</h1>
+                        <h2 class="heading-2 title">Discover the range of LABELS48h and choose your own label</h2>
+                        <h1 class="heading-3 subtitle">Labels LABELS48h — unique design solutions and short lead time</h1>
 
-                        <p class="par-1 text">Nowa linia LABELS48h składa się z 10 innowacyjnych wzorniczo etykiet
-                            booklet.
-                            Etykiety wyróżniają się oryginalnymi rozwiązaniami konstrukcyjnymi, wykończeniowymi oraz
-                            funkcjonalnymi, które zostały uzyskane dzięki analizie potrzeb naszych klientów, starannie
-                            przeprowadzonemu procesowi projektowemu oraz nowym technologiom produkcji.</p>
-                        <p class="par-1 text">Linia LABELS48h oferuje m.in. specjalnie zaprojektowane sposoby otwierania
-                            etykiet, nowe kształty języków, lepszą dostępność dla osób niedowidzących, niewidomych czy o
-                            ograniczonej sprawności, możliwość aplikacji na opakowania w kształcie walca, farby
-                            fluorescencyjne, zabezpieczenia oraz możliwość zamieszczania stałych i zmiennych kodów oraz
-                            numeracji. W ofercie znajdują się również łatwo recyklingowalne etykiety przyjazne
-                            środowisku. Szeroki wybór etykiet pozwoli Państwu wybrac wzór najbardziej wpisujący się w
-                            potrzeby Państwa projektu.</p>
+                        <p class="par-1 text">Our new line LABELS48h consists of 10 innovative designs of booklet labels. The labels are characterized by original design features, finishes and functions that have been developed by our Company on the basis of the thorough analysis of our customers’ needs, the carefully conducted designing process and new production technologies.</p>
+                        <p class="par-1 text">The line LABELS48h provides, for example, special design of label opening methods, new shapes of grip tabs, better availability for the visually impaired, the blind and persons with reduced mobility, possibility of applying on round containers, fluorescent inks, safety measures and possibility of applying fixed and variable codes and numbering. Our offer includes also easily recyclable, eco-friendly labels.</p>
                         <img src="./static/image/labels48h-logo.png" alt="labels48h" class="thumb-label">
                     </div>
                 </div>
@@ -66,52 +55,36 @@
             <div class="row main-row">
                 <div class="col-12">
                     <div class="content">
-                        <h2 class="heading-2 title">Cechy nowej linii etykiet LABELS48h</h2>
-                        <h3 class="heading-4 heading">Gotowe w 48 godzin!</h3>
+                        <h2 class="heading-2 title">LABELS 48h features</h2>
+                        <h3 class="heading-4 heading">Ready in 48 hours!</h3>
 
                         <div class="edit-area-1">
-                            <p>Nowa linia etykiet booklet LABELS48h cechuje się skróconym do 48 godzin czasem produkcji,
-                                dzięki:</p>
+                            <p>Our new line of the booklet labels LABELS48h’s feature is 48-hour lead time what results from:</p>
                             <ul>
-                                <li>nowej technologii druku,</li>
-                                <li>szybkiej produkcji offsetowych form drukarskich w zakładzie Multicolor,</li>
-                                <li>technologii zautomatyzowanego sztancowania,</li>
-                                <li>zautomatyzowanej kontroli jakości etykiet booklet.</li>
+                                <li>new technology of printing,</li>
+                                <li>quick production of offset printing plates in our plant Multicolor,</li>
+                                <li>technology of automated die cutting,</li>
+                                <li>automated process of booklet label quality control.</li>
                             </ul>
                             <br>
-                            <h3>Krótkie serie w atrakcyjnych cenach</h3>
-                            <p>Nowa linia etykiet booklet LABELS48h to możliwość produkcji krótkich serii do 5000 sztuk
-                                - przy utrzymaniu atrakcyjnych cen charakterystycznych dla dużych serii. Dzięki nowym
-                                technologii produkcji zoptymalizowaliśmy koszt jednostkowy produkcji.</p>
+                            <h3>Short production series at attractive prices</h3>
+                            <p>Our new line of booklet labels LABELS48h enables production of any short series up to 5000 pieces at attractive prices that are characteristic of large series. Due to our new production technology we have optimized the unit cost of production.</p>
                             <br>
-                            <h3>Wysoka jakość druku</h3>
-                            <p>Wszystkie części etykiety, zarówno baza jak i insert są drukowane w tej samej technologii
-                                - offsetowo, dzięki czemu rozdzielczość druku jest bardzo wysoka i jednorodna dla całego
-                                produktu, co gwarantuje doskonałą czytelność informacji zawartej na etykietach. </p>
+                            <h3>High quality printing</h3>
+                            <p>All components of labels, i.e. both base labels and inserts, are printed using the same technology, i.e. offset printing, what results in very high print resolution that is uniform for the entire product and provides excellent legibility of the information contained in the labels. </p>
                             <br>
-                            <h3>Ekspresowa personalizacja i projekt</h3>
-                            <p>Każdy z 10-ciu nowych wzorów etykiet udostępniony jest w postaci edytowalnych plików
-                                graficznych, dostępnych darmowo do pobrania ze strony internetowej
-                                sklep.multicolordrukarnia.pl i labels48h.com. Każdy z wzorów nowych etykiet może być
-                                dostosowany do indywidualnych potrzeb klienta przez dział graficzny Multicolor do
-                                szczegółowej specyfikacji zamówienia.</p>
+                            <h3>Express customization and design</h3>
+                            <p>Each of our 10 new label templates is available in the form of an editable graphic file on our website and may be downloaded free of charge from: sklep.multicolordrukarnia.pl and labels48h.com. 
+Multicolor graphic department can adapt each template of our new labels to individual customer’s needs on the basis of the order specification.</p>
                             <br>
-                            <h3>Zmienne znakowanie i dodatkowe zabezpieczenia</h3>
-                            <p>W nowej linii wzorniczej etykiet LABELS48H wprowadziliśmy wzory oferujące możliwość
-                                zmiennego znakowania z wykorzystaniem przemysłowych technologii znakowania. Dodatkowo
-                                oferujemy również inne rozwiązania chroniące przed nieupoważnionym otwarciem etykiety
-                                czy podróbkami.</p>
+                            <h3>Variable marking of labels and additional safeguards</h3>
+                            <p>In our new design line of labels, LABELS48H, we have introduced the templates that facilitate variable marking using the industrial printing technology. Additionally, we offer also other solutions that protect against unauthorized opening of the label and against counterfeit products.</p>
                             <br>
-                            <h3>Ekologia</h3>
-                            <p>Wszystkie etykiety z linii LABELS48H cechują się większą przyjaznością dla środowiska
-                                dzięki zastąpieniu w procesie technologicznym fleksodruku - drukiem offsetowym. Ponadto
-                                wybrane wzory etykiet cechują się ułatwionym recyklingiem dzięki wykonaniu w całości z
-                                jednego materiału.</p>
+                            <h3>Ecology</h3>
+                            <p>All labels from the line LABELS48H are more eco-friendly since we have replaced flexo printing with offset printing in our technological process. Moreover, some selected labels can be easily recycled as they are made entirely of one material.</p>
                             <br>
-                            <h3>Gwarancja jakości Multicolor</h3>
-                            <p>Zautomatyzowana kontrola jakości nowej linii produktów LABELS48H umożliwia szybkie, a
-                                jednocześnie niezawodne wykrywanie wad produktu, co jest niezwykle istotne dla skrócenia
-                                czasu produkcji jak i zagwarantowania najwyższej jakości naszych etykiet.</p>
+                            <h3>Guaranteed Multicolor quality </h3>
+                            <p>The automated quality control for our new line of products, LABELS48H, facilitates quick and at the same time reliable detection of any product faults what is essential for our labels to be of highest quality and for the production time to be shortened. </p>
                         </div>
                     </div>
                 </div>
@@ -128,31 +101,16 @@
                         <h2 class="heading-2 title">Pełen asortyment etykiet znajdziesz w naszym sklepie <i
                                     class="fas fa-angle-right"></i></h2>
                         <div class="edit-area-1">
-                            <p><b>01_Easy Grip</b> - etykieta dostępna z powiększonym, łatwym do uchwycenia językiem.
-                                Duży
-                                język ułatwia ergonomiczne odklejanie i przyklejanie osobom o ograniczonej sprawności
-                                rąk lub pracującym w rękawicach.</p>
-                            <p><b>02_Vision Plus</b> - etykieta dostępna o zwiększonej czytelności dzięki zastosowaniu
-                                kontrastowej żółto-czarnej kolorystyki oraz wypukłych oznakowaniach i napisach w
-                                alfabecie Braille’a.</p>
-                            <p><b>03_Perforated</b> - etykieta z perforacją umożliwiająca jej oderwanie i zachowanie. Po
-                                wyrwaniu insertu na opakowaniu pozostaje trwale przyklejona baza etykiety.</p>
-                            <p><b>04_ Serial Sticker</b> - etykieta bookletowa posiadająca dodatkową nalepkę z numerem i
-                                kodem. Dodatkowa nalepka to dwuwarstwowy “peel off” - po zerwaniu wierzchniej warstwy
-                                nalepki na etykiecie pozostaje na trwale przyklejona warstwa bazowa nalepki</p>
-                            <p><b>05_Fluo</b> - etykieta o podwyższonej widoczności, dzięki zastosowaniu farb
-                                fluorescencyjnych, odblaskowych lub luminescencyjnych. Przydatna gdy trzeba zachować
-                                podwyższoną ostrożność.</p>
-                            <p><b>06_ Booklet 360</b> - etykieta dostosowana do aplikacji na opakowania w kształcie
-                                walca - “booklet otwarty”.</p>
-                            <p><b>07_Eco Pap</b> - etykieta ekologiczna wykonana w całości z papieru. Nadaje się w
-                                całości do łatwego recyklingu.</p>
-                            <p><b>08_Eco PP/PE</b> - etykieta ekologiczna wykonana w całości z PP lub PE. Nadaje się w
-                                całości do łatwego recyklingu.</p>
-                            <p><b>09_Code</b> - etykieta ze stałym lub zmiennym kodem QR lub innym kodem producenta</p>
-                            <p><b>10_Safe Code </b> - etykieta z zabezpieczeniami w postaci zmiennego kodu ukrytego pod
-                                zdrapką oraz odrywanego paska, który w momencie pierwszego otwarcia etykiety ulega
-                                częściowemu zniszczeniu</p>
+                            <p><b>01_Easy Grip</b> - Labels that contain enlarged tabs that are particularly easy to grip. The large tabs facilitate ergonomic repeated resealing for persons with reduced mobility in their hands or who work in gloves.</p>
+                            <p><b>02_Vision Plus</b> - Labels that are characterized by increased legibility due to yellow-black contrasting colors and raised markings and inscriptions in Braille alphabet.</p>
+                            <p><b>03_Perforated</b> - Labels that contain perforations. Perforations allow a label section (an insert) to be torn off and kept for future use while the rest of the label (a base) remains firmly glued to the container.</p>
+                            <p><b>04_ Serial Sticker</b> - Booklet labels with additional stickers containing numbers and codes. The additional sticker is a double-layered “peel off” – after peeling off the outer layer of the sticker the base layer of the sticker remains firmly secured to the label. </p>
+                            <p><b>05_Fluo</b> - Labels that are characterized by increased visibility, printed with fluorescent, retro-reflective or luminescent paints. They are particularly useful when special caution is required.</p>
+                            <p><b>06_ Booklet 360</b> - Labels that are adapted to being affixed to a round surface - “an open booklet”.</p>
+                            <p><b>07_Eco Pap</b> - Ecological labels that are made entirely of paper. Such labels are entirely and easily recyclable.</p>
+                            <p><b>08_Eco PP/PE</b> - Ecological labels that are made entirely of PP or PE. Such labels are entirely and easily recyclable.</p>
+                            <p><b>09_Code</b> - Labels that contain fixed or variable QR codes or other producer codes.</p>
+                            <p><b>10_Safe Code </b> - Labels that are protected either by means of a variable code hidden under a scratch-off and a tearable strip that is partially damaged while the label is opened for the first time.</p>
                             <br>
                             <h4 class="download-text">Do pobrania</h4>
                             <a href="./static/image/labels48h_katalog_pl.pdf" target="_blank" class="download-link">Katalog LABELS48h-PL</a>

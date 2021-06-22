@@ -9,8 +9,8 @@
             <div class="row main-row">
                 <div class="col-12">
                     <div class="content">
-                        <h2 class="heading-2 title">Kontakt</h2>
-                        <h1 class="heading-2 subtitle">Jesteśmy dostępni dla Państwa całodobowo.</h1>
+                        <h2 class="heading-2 title">Contact</h2>
+                        <h1 class="heading-2 subtitle">We are aviable 24/7 for you.</h1>
                     </div>
                 </div>
                 <div class="col-lg-6">
@@ -24,8 +24,8 @@
                         <br>
                         <h3 class="heading-4 contact">NIP 792-121-58-80</h3>
                         <br>
-                        <h4 class="heading-2 subtitle color-violet">Skontaktuj się z nami bezpośrednio! <br>
-                            Nasz zespół odpowie na Twoje pytania. <br>
+                        <h4 class="heading-2 subtitle color-violet">Contact us directly! <br>
+                            Our experts will answer your questions. <br>
                             <a href="tel:+48 16 623 03 97">+48 16 623 03 97</a> <br>
                             <a href="tel:+48 516 055 622">+48 516 055 622</a> <br>
                             <a href="mailto:biuro@multicolordrukarnia.pl">biuro@multicolordrukarnia.pl</a> <br>
@@ -39,9 +39,7 @@
                 </div>
                 <div class="col-12">
                     <div class="content">
-                        <h4 class="heading-2 subtitle color-green">Nasza nowoczesna siedziba i zakład produkcyjny
-                            znajdują się w Widnej Górze
-                            pod Jarosławiem w dogodnej lokalizacji tuż przy zjeździe z autostrady A4.</h4>
+                        <h4 class="heading-2 subtitle color-green">Our modern office and production plant are in Widna Góra near Jarosław, very conveniently located just off the highway A4.</h4>
                     </div>
                 </div>
             </div>
