@@ -30,9 +30,7 @@
             <div class="row heading-row">
                 <div class="col-12">
                     <div class="content">
-                        <h2 class="heading-2 text">Drukarnia Multicolor to dynamicznie rozwijająca się rodzinna firma
-                            działająca na rynku polskim i europejskim od 2004 r. Jesteśmy wiodącym producentem etykiet
-                            typu booklet na polskim rynku. Zaufaj naszemu doświadczeniu.</h2>
+                        <h2 class="heading-2 text">Die Druckerei Multicolor bildet eine sich dynamisch entwickelnde Familienfirma, die auf dem polnischen und europäischen Markt sei 2004 tätig ist. Wir sind führender Hersteller von Etiketten des Booklet - Typs auf dem polnischen Markt. Vertraue unseren Erfahrungen.</h2>
                     </div>
                 </div>
             </div>
@@ -78,10 +76,8 @@
             <div class="row main-row">
                 <div class="col-md-8 col-lg-6">
                     <div class="content">
-                        <h2 class="heading-2 title">Co robimy?</h2>
-                        <p class="par-1 text">Oferujemy usługi w zakresie druku offsetowego, cyfrowego,
-                            fleksograficznego, a takze przetwarzania druku w pełnym zakresie prac introligatorskich jak
-                            i projektowania graficznego.</p>
+                        <h2 class="heading-2 title">Was machen wir?</h2>
+                        <p class="par-1 text">Wir bieten Offset-, Digital- und Flexodruck sowie Druckweiterverarbeitung im gesamten Bereich der Buchbinderei und Grafikgestaltung.</p>
                     </div>
                 </div>
             </div>
@@ -102,20 +98,20 @@
                 </div>
                 <div class="col-lg-4">
                     <div class="content">
-                        <h2 class="heading-1 title">Poznaj nas!</h2>
-                        <p class="par-1">Multicolor to:</p>
+                        <h2 class="heading-1 title">Lerne uns kennen!</h2>
+                        <p class="par-1">Multicolor bietet:</p>
                         <ul class="list-primary">
-                            <li>Bogaty asortyment usług</li>
-                            <li>Wiele technologii druku w jednym miejscu</li>
-                            <li>Zmienne znakowanie</li>
-                            <li>Terminowość</li>
-                            <li>Ekologia</li>
-                            <li>Gwarancja jakości Multicolor</li>
-                            <li>Atrakcyjne ceny</li>
-                            <li>Indywidualne podejście do każdego projektu</li>
-                            <li>Doświadczona kadra</li>
+                            <li>Reicher Dienstleistungssortiment</li>
+                            <li>Verschiedene Drucktechnologien</li>
+                            <li>Variable Bezeichnung</li>
+                            <li>Immer zurzeit</li>
+                            <li>Wir drucken ökologisch</li>
+                            <li>Qualitätsgarantie Multicolor</li>
+                            <li>Attraktive Preise</li>
+                            <li>Individuelle Herangehensweise an jedes Projekt</li>
+                            <li>Erfahrenes Team</li>
                         </ul>
-                        <a href="oferta.php" class="link">Czytaj więcej <i class="fas fa-angle-right"></i></a>
+                        <a href="oferta.php" class="link">Weiterlesen<i class="fas fa-angle-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -128,9 +124,9 @@
             <div class="row main-row">
                 <div class="col-12">
                     <div class="content">
-                        <h2 class="heading-2 text">Nowa linia etykiet LABELS48h - etykiety gotowe już w 48 godzin!</h2>
-                        <h2 class="heading-2 text">Różnorodna funkcjonalność.</h2>
-                        <a href="labels48h.php" class="link">Czytaj więcej <i class="fas fa-angle-right"></i></a>
+                        <h2 class="heading-2 text">Neue LABELS48h- Linie - in 48 Stunden fertig!</h2>
+                        <h2 class="heading-2 text">Vielfältige Funktionalitäten und maßgeschneiderte Lösungen.</h2>
+                        <a href="labels48h.php" class="link">Weiterlesen <i class="fas fa-angle-right"></i></a>
                     </div>
                 </div>
             </div>

@@ -8,15 +8,16 @@
                     <a href="#" class="logo" title="Drukarnia / Printing House Multicolor">
                         <img src="./static/image/logo.png" alt="Drukarnia Multicolor">
                     </a>
-                    <p class="par-1">Drukarnia Multicolor to <br>
-                        dynamicznie rozwijająca się <br>
-                        rodzinna firma działająca na <br>
-                        rynku polskim i europejskim <br>
-                        od 2004 roku.</p>
+                    <p class="par-1">Die Druckerei Multicolor <br>
+					bildet eine sich <br>
+					dynamisch entwickelnde Familienfirma, <br> 
+					die auf dem polnischen und europäischen Markt <br> 
+					sei 2004 tätig ist.<br>
+					</p>
                 </div>
             </div>
             <div class="col-lg-3">
-                <p class="heading-3">Dane firmowe</p>
+                <p class="heading-3">Firmen daten</p>
                 <p class="par-1">
                     Zakład Wielobranzowy <br>
                     Drukarnia Multicolor
