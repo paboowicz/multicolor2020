@@ -27,7 +27,13 @@
 
 <header class="header-global">
 
-    <section class="container">
+	<section class="container" style="text-align: right;">
+		<a href="/"><img src="/static/image/pl-flag.gif" style="border: 0; height: 15px;" /></a>
+		<a href="/en"><img src="/static/image/uk-flag.gif" style="border: 0; height: 15px;" /></a>
+		<a href="/de"><img src="/static/image/gm-flag.gif" style="border: 0; height: 15px;" /></a>
+	</section>
+    
+	<section class="container">
         <div class="row main-row">
             <div class="col-md-6 col-xl-auto d-flex justify-content-between align-items-center">
                 <a href="index.php" title="multicolor" class="logo">
