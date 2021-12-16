@@ -11,6 +11,24 @@
             <div class="row main-row">
                 <div class="col-12">
                     <div class="edit-area">
+						<h3>BUJAK KRZYSZTOF ZAKŁAD WIELOBRANŻOWY DRUKARNIA "MULTICOLOR"</h3>
+<p>z siedzibą Widna Góra ul. Roźwieniecka 111, 37-500 Jarosław<br>
+informuje, iż zawarta została umowa nr POPW.01.03.01-18-0036/20 na realizację projektu pn. “ Rozwój i wzrost konkurencyjności Drukarni MULTICOLOR poprzez wdrożenie na rynek innowacyjnej etykiety produktowej”
+realizowanego w ramach Programu Operacyjnego Polska Wschodnia 2014-2020, osi priorytetowej I: Przedsiębiorcza Polska Wschodnia, Działania 1.3 Ponadregionalne powiązania kooperacyjne
+Poddziałania 1.3.1 Wdrażanie innowacji przez MŚP
+ współfinansowanego z Europejskiego Funduszu Rozwoju Regionalnego.</p><br>
+
+<p>Opis projektu:<br>
+Projekt ukierunkowany jest na wdrożenie na rynek innowacyjnego w skali krajowej produktu w postaci wielowarstwowej etykiety produktowej, wykonanej z jednolitego materiału jakim jest polietylen HDPE.
+Głównym celem projektu jest wzrost konkurencyjności oraz zwiększenie potencjału innowacyjnego Drukarni MULTICOLOR poprzez wdrożenie na rynek opracowanego w ramach prac B+R  innowacyjnego w skali krajowej produktu, w postaci etykiety wielowarstwowej z polietylenu HDPE.</p>
+<br>
+<p>Planowane efekty:<br>
+Wdrożenie na rynek innowacyjnego produktu poprzez uruchomienie produkcji i sprzedaży na rynku krajowym i europejskim. W rezultacie projekt wpłynie na rozwój i wzrost konkurencyjności Drukarni MULTICOLOR, ale również zintensyfikuje współpracę pomiędzy Wnioskodawcą a innymi podmiotami ponadregionalnego powiązania kooperacyjnego- Stowarzyszenia Przedsiębiorstw Poligrafii Kraków, a także zwiększy jego potencjał rynkowy.</p>
+<br>
+Wartość projektu: 19 803 000,00 PLN
+<br>
+Wkładu funduszy europejskich: 11 270 000,00 PLN</p>
+<br>
                         <h2 class="title">Projekty</h2>
                         <h3>PROJEKT : Wdrożenie strategii wzorniczej w Drukarni MULTICOLOR</h3>
                         <p>Drukarnia MULTICOLOR realizuje projekt pn. „Wdrożenie strategii wzorniczej w Drukarni
