@@ -1,3 +1,12 @@
+<!DOCTYPE html>
+<html lang="pl-PL">
+<head>
+    <title>Kontakt</title>
+    <meta name="description" content="Jesteśmy dostępni dla Państwa całodobowo." />
+    <link rel="alternate" href="http://www.multicolordrukarnia.pl/kontakt.php" hreflang="pl-PL" />
+<link rel="alternate" href="http://www.multicolordrukarnia.pl/en/kontakt.php" hreflang="en" />
+<link rel="alternate" href="http://www.multicolordrukarnia.pl/de/kontakt.php" hreflang="de" />
+<link rel="alternate" hreflang="x-default" ref="http://www.multicolordrukarnia.pl/kontakt.php" />
 <?php require_once('_header.php'); ?>
 
 
@@ -6,6 +15,23 @@
 
     <section class="contact-section">
         <div class="container">
+            <div class="row">
+                <div class="col-12">
+                <ol class="breadcrumb" itemscope="" itemtype="http://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+                        <a href="/" title="Multicolor" itemprop="item">
+                            <span itemprop="name">Strona główna</span>
+                            <meta itemprop="position" content="1">
+                        </a>
+                    </li>
+                    <li>»</li>
+                    <li class="active" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+                        <span itemprop="name">Kontakt</span>
+                        <meta itemprop="position" content="2">
+                    </li>
+                </ol>
+                </div>
+            </div>
             <div class="row main-row">
                 <div class="col-12">
                     <div class="content">
@@ -26,15 +52,15 @@
                         <br>
                         <h4 class="heading-2 subtitle color-violet">Skontaktuj się z nami bezpośrednio! <br>
                             Nasz zespół odpowie na Twoje pytania. <br>
-                            <a href="tel:+48 16 623 03 97">+48 16 623 03 97</a> <br>
-                            <a href="tel:+48 516 055 622">+48 516 055 622</a> <br>
+                            <a href="tel:+48166230397">+48 16 623 03 97</a> <br>
+                            <a href="tel:+48516055622">+48 516 055 622</a> <br>
                             <a href="mailto:biuro@multicolordrukarnia.pl">biuro@multicolordrukarnia.pl</a> <br>
                         </h4>
                     </div>
                 </div>
                 <div class="col-lg-6">
                     <div class="thumb">
-                        <img src="./static/image/kontakt_01.png" alt="" class="img-fluid">
+                        <img src="./static/image/kontakt_01.webp" alt="kontakt" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-12">
@@ -57,7 +83,7 @@
 
             <div class="row thumb-row">
                 <div class="col-12">
-                    <img src="./static/image/multicolor_motyw_03.png" alt="motyw">
+                    <img src="./static/image/multicolor_motyw_03.webp" alt="motyw">
                 </div>
             </div>
         </div>

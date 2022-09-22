@@ -1,11 +1,35 @@
+<!DOCTYPE html>
+<html lang="pl-PL">
+<head>
+    <title>Oferta</title>
+    <meta name="description" content="Projektujemy, drukujemy i dostarczamy. Poznaj nas!" />
+    <link rel="alternate" href="http://www.multicolordrukarnia.pl/oferta.php" hreflang="pl-PL" />
+    <link rel="alternate" href="http://www.multicolordrukarnia.pl/en/oferta.php" hreflang="en" />
+    <link rel="alternate" href="http://www.multicolordrukarnia.pl/de/oferta.php" hreflang="de" />
+    <link rel="alternate" hreflang="x-default" ref="http://www.multicolordrukarnia.pl/oferta.php" />
 <?php require_once('_header.php'); ?>
 
 
 <section class="offer-index">
-
-
     <section class="offer-section">
         <div class="container">
+            <div class="row">
+                <div class="col-12">
+                <ol class="breadcrumb" itemscope="" itemtype="http://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+                        <a href="/" title="Multicolor" itemprop="item">
+                            <span itemprop="name">Strona główna</span>
+                            <meta itemprop="position" content="1">
+                        </a>
+                    </li>
+                    <li>»</li>
+                    <li class="active" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+                        <span itemprop="name">Oferta</span>
+                        <meta itemprop="position" content="2">
+                    </li>
+                </ol>
+                </div>
+            </div>
             <div class="row main-row">
                 <div class="col-12">
                     <div class="content">
@@ -86,32 +110,32 @@
             <div class="row icons-row">
                 <div class="col-sm-6 col-md-4 col-lg-2">
                     <div class="item">
-                        <img src="./static/image/icons/ikony_set_01.png" alt="szeroki asortyment">
+                        <img src="./static/image/icons/ikony_set_01.webp" alt="szeroki asortyment">
                     </div>
                 </div>
                 <div class="col-sm-6 col-md-4 col-lg-2">
                     <div class="item">
-                        <img src="./static/image/icons/ikony_set_02.png" alt="zawsze na czas">
+                        <img src="./static/image/icons/ikony_set_02.webp" alt="zawsze na czas">
                     </div>
                 </div>
                 <div class="col-sm-6 col-md-4 col-lg-2">
                     <div class="item">
-                        <img src="./static/image/icons/ikony_set_03.png" alt="drukujemy ekologicznie">
+                        <img src="./static/image/icons/ikony_set_03.webp" alt="drukujemy ekologicznie">
                     </div>
                 </div>
                 <div class="col-sm-6 col-md-4 col-lg-2">
                     <div class="item">
-                        <img src="./static/image/icons/ikony_set_04.png" alt="atrakcyjne ceny">
+                        <img src="./static/image/icons/ikony_set_04.webp" alt="atrakcyjne ceny">
                     </div>
                 </div>
                 <div class="col-sm-6 col-md-4 col-lg-2">
                     <div class="item">
-                        <img src="./static/image/icons/ikony_set_05.png" alt="własny transport">
+                        <img src="./static/image/icons/ikony_set_05.webp" alt="własny transport">
                     </div>
                 </div>
                 <div class="col-sm-6 col-md-4 col-lg-2">
                     <div class="item">
-                        <img src="./static/image/icons/ikony_set_06.png" alt="produkt polski">
+                        <img src="./static/image/icons/ikony_set_06.webp" alt="produkt polski">
                     </div>
                 </div>
             </div>
@@ -119,7 +143,7 @@
 
             <div class="row thumb-row">
                 <div class="col-12">
-                    <img src="./static/image/multicolor_motyw_01.png" alt="motyw">
+                    <img src="./static/image/multicolor_motyw_01.webp" alt="motyw">
                 </div>
             </div>
         </div>

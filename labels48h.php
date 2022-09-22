@@ -1,4 +1,13 @@
-<?php require_once('_header.php'); ?>
+<!DOCTYPE html>
+<html lang="pl-PL">
+<head>
+    <title>Nowa linia etykiet LABELS 48h. Unikalne wzory, różne typy</title>
+    <meta name="description" content="Poznaj naszą nową linię etykiet LABELS 48h. To kolekcja unikalnych wzorów utrzymanych w nowoczesnym stylu. Proponujemy nowe sposoby otwierania etykiet booklet." />
+    <link rel="alternate" href="http://www.multicolordrukarnia.pl/labels48h.php" hreflang="pl-PL" />
+    <link rel="alternate" href="http://www.multicolordrukarnia.pl/en/labels48h.php" hreflang="en" />
+    <link rel="alternate" href="http://www.multicolordrukarnia.pl/de/labels48h.php" hreflang="de" />
+    <link rel="alternate" hreflang="x-default" ref="http://www.multicolordrukarnia.pl/labels48h.php" /> 
+    <?php require_once('_header.php'); ?>
 
 
 <section class="labels48h-index">
@@ -6,26 +15,33 @@
 
     <section class="labels48h-section">
         <div class="container">
+            <div class="row">
+                <div class="col-12">
+                <ol class="breadcrumb" itemscope="" itemtype="http://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+                        <a href="/" title="Multicolor" itemprop="item">
+                            <span itemprop="name">Strona główna</span>
+                            <meta itemprop="position" content="1">
+                        </a>
+                    </li>
+                    <li>»</li>
+                    <li class="active" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+                        <span itemprop="name">Labels48h</span>
+                        <meta itemprop="position" content="2">
+                    </li>
+                </ol>
+                </div>
+            </div>
             <div class="row main-row">
                 <div class="col-12">
                     <div class="content">
                         <h2 class="heading-2 title">Nowa linia etykiet LABELS48h</h2>
-                        <h1 class="heading-3 subtitle">Etykiety LABELS48h — unikalne rozwiązania wzornicze i szybka
-                            realizacja</h1>
+                        <h1 class="heading-3 subtitle">Nowa linia etykiet LABELS 48h. Unikalne wzornictwo i szybka realizacja zamówień</h1>
 
-                        <p class="par-1 text">Nowa linia LABELS48h składa się z 10 innowacyjnych wzorniczo etykiet
-                            booklet.
-                            Etykiety wyróżniają się oryginalnymi rozwiązaniami konstrukcyjnymi, wykończeniowymi oraz
-                            funkcjonalnymi, które zostały uzyskane dzięki analizie potrzeb naszych klientów, starannie
-                            przeprowadzonemu procesowi projektowemu oraz nowym technologiom produkcji.</p>
-                        <p class="par-1 text">Linia LABELS48h oferuje m.in. specjalnie zaprojektowane sposoby otwierania
-                            etykiet, nowe kształty języków, lepszą dostępność dla osób niedowidzących, niewidomych czy o
-                            ograniczonej sprawności, możliwość aplikacji na opakowania w kształcie walca, farby
-                            fluorescencyjne, zabezpieczenia oraz możliwość zamieszczania stałych i zmiennych kodów oraz
-                            numeracji. W ofercie znajdują się również łatwo recyklingowalne etykiety przyjazne
-                            środowisku. Szeroki wybór etykiet pozwoli Państwu wybrac wzór najbardziej wpisujący się w
-                            potrzeby Państwa projektu.</p>
-                        <img src="./static/image/labels48h-logo.png" alt="labels48h" class="thumb-label">
+                        <p class="par-1 text">Standardowe rozwiązania to dla Ciebie za mało? Nowa linia etykiet LABELS 48h składa się z 10 innowacyjnych etykiet booklet. Stworzyliśmy propozycje wyróżniające się unikalnym wzornictwem, zgodnym z najnowszymi trendami w sztuce użytkowej. To produkt najwyżej jakości łączący w sobie dobry design oraz elementy praktyczne. W porównaniu z tradycyjnymi <a href="/etykiety-samoprzylepne.php">etykietami samoprzylepnymi</a> LABELS 48h wyróżniają się oryginalnymi rozwiązaniami konstrukcyjnymi, wykończeniowymi oraz funkcjonalnymi. Tworząc je kierowaliśmy się doświadczeniami w pracy z naszymi klientami i tym z jakimi potrzebami się do nas zgłaszają. </p>
+                        <p class="par-1 text">W tej linii produktów proponujemy specjalnie zaprojektowane sposoby otwierania etykiet oraz nowe kształty języków. Specjalna konstrukcja zapewnia lepszą dostępność dla osób niedowidzących, niewidomych, czy o ograniczonej sprawności. Zastosowany sposób cięcia pojedynczych etykiet uławia umieszczenie ich na opakowaniach okrągłych lub w kształcie walca. Solidny klej dobrze trzyma się każdej powierzchni, nie ma więc ryzyka, że etykieta zacznie odchodzić w trakcie transportu. W naszych projektach dbamy również o środowisko dlatego proponujemy recyklingowane etykiety, których materiał łatwo jest użyć ponownie. 
+</p>
+                        <img src="./static/image/labels48h-logo.webp" alt="labels48h" class="thumb-label">
                     </div>
                 </div>
             </div>
@@ -33,7 +49,7 @@
 
             <div class="row thumb-row">
                 <div class="col-12">
-                    <img src="./static/image/multicolor_motyw_04.png" alt="motyw">
+                    <img src="./static/image/multicolor_motyw_04.webp" alt="motyw">
                 </div>
             </div>
         </div>
@@ -46,13 +62,13 @@
                 <div class="col-12">
                     <div class="slider-row">
                         <a href="https://sklep.multicolordrukarnia.pl" target="blank" class="slide">
-                            <img src="./static/image/slider/slider_labels48_01.jpg" alt="test">
+                            <img src="./static/image/slider/slider_labels48_01.webp" alt="test">
                         </a>
 						<a href="https://sklep.multicolordrukarnia.pl/variant/etykieta-easy-grip-easy-grip" target="blank" class="slide">
-                            <img src="./static/image/slider/slider_labels48_02.jpg" alt="test">
+                            <img src="./static/image/slider/slider_labels48_02.webp" alt="test">
                         </a>
 						<a href="https://sklep.multicolordrukarnia.pl/variant/etykieta-vision-plus-vision-plus" target="blank" class="slide">
-                            <img src="./static/image/slider/slider_labels48_03.jpg" alt="test">
+                            <img src="./static/image/slider/slider_labels48_03.webp" alt="test">
                         </a>                        
                     </div>
                 </div>

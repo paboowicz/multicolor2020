@@ -1,4 +1,13 @@
-<?php require_once('_header.php'); ?>
+<!DOCTYPE html>
+<html lang="pl-PL">
+<head>
+    <title>Projekty i przetargi</title>
+    <meta name="description" content="informuje, iż zawarta została umowa nr POPW.01.03.01-18-0036/20 na realizację projektu pn. “ Rozwój i wzrost konkurencyjności Drukarni MULTICOLOR poprzez wdrożenie na rynek innowacyjnej etykiety produktowej” realizowanego w ramach Programu Operacyjnego Polska Wschodnia 2014-2020, osi priorytetowej I: Przedsiębiorcza Polska Wschodnia, Działania 1.3 Ponadregionalne powiązania kooperacyjne Poddziałania 1.3.1 Wdrażanie innowacji przez MŚP współfinansowanego z Europejskiego Funduszu Rozwoju Regionalnego." />
+    <link rel="alternate" href="http://www.multicolordrukarnia.pl/projekty-i-przetargi.php" hreflang="pl-PL" />
+    <link rel="alternate" href="http://www.multicolordrukarnia.pl/en/projekty-i-przetargi.php" hreflang="en" />
+    <link rel="alternate" href="http://www.multicolordrukarnia.pl/de/projekty-i-przetargi.php" hreflang="de" />
+    <link rel="alternate" hreflang="x-default" ref="http://www.multicolordrukarnia.pl/projekty-i-przetargi.php" />
+    <?php require_once('_header.php'); ?>
 
 
 <section class="projects-and-auctions-index">
@@ -8,6 +17,23 @@
 
     <section class="projects-section">
         <div class="container">
+            <div class="row">
+                <div class="col-12">
+                <ol class="breadcrumb" itemscope="" itemtype="http://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+                        <a href="/" title="Multicolor" itemprop="item">
+                            <span itemprop="name">Strona główna</span>
+                            <meta itemprop="position" content="1">
+                        </a>
+                    </li>
+                    <li>»</li>
+                    <li class="active" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+                        <span itemprop="name">Projekty i przetargi</span>
+                        <meta itemprop="position" content="2">
+                    </li>
+                </ol>
+                </div>
+            </div>
             <div class="row main-row">
                 <div class="col-12">
                     <div class="edit-area">
@@ -73,7 +99,7 @@ Wkładu funduszy europejskich: 11 270 000,00 PLN</p>
                         <br>
                         <br>
                         <br>
-                        <img src="./static/image/stopka-EU.png" alt="unia" class="d-block" style="height: 80px">
+                        <img src="./static/image/stopka-EU.webp" alt="unia" class="d-block" style="height: 80px">
                         <hr>
 
                         <h3>PROJEKT: Budowa nowego zakładu do produkcji etykiet wielowarstwowych</h3>
@@ -96,7 +122,7 @@ Wkładu funduszy europejskich: 11 270 000,00 PLN</p>
                         <p>Dofinansowanie z UE:6.490.249,99zł</p>
                         <br>
                         <br>
-                        <img src="./static/image/stopka-EU.png" alt="unia" class="d-block" style="height: 80px">
+                        <img src="./static/image/stopka-EU.webp" alt="unia" class="d-block" style="height: 80px">
                     </div>
                 </div>
             </div>

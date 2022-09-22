@@ -1,3 +1,8 @@
+<!DOCTYPE html>
+<html lang="pl-PL">
+<head>
+    <title></title>
+    <meta name="description" content="" />
 <?php require_once('_header.php'); ?>
 
 

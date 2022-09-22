@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Dissallow: /archiwum_www/
+Dissallow: /test/
+Dissallow: /test2/
+Dissallow: /test3/
+Dissallow: /tmp/
+
+Sitemap: http://www.multicolordrukarnia.pl/sitemap.xml

@@ -10,7 +10,7 @@
     <link rel="alternate" hreflang="x-default" href="http://www.multicolordrukarnia.pl/" />
 <?php require_once('_header.php'); ?>
 
-<section class="flexographic-labels-index">
+<section class="multi-layer-label-hdpe-index">
     <section class="projects-section">
         <div class="container">
             <div class="row">
@@ -19,7 +19,7 @@
                     <li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
                         <a href="/" title="Multicolor" itemprop="item">
                             <span itemprop="name">Strona główna</span>
-                            <meta itemprop="position" content="6">
+                            <meta itemprop="position" content="1">
                         </a>
                     </li>
                     <li>»</li>
