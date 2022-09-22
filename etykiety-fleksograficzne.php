@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="pl-PL">
+<head>
+    <title>Druk etykiet fleksograficznych. Wysoka jakość wydruku</title>
+    <meta name="description" content="Zamów wydruk etykiet fleksograficznych. Jesteśmy liderem w produkcji etykiety booklet oraz peel-off. Umieścisz na nich szereg informacji na małym opakowaniu." />
+    <meta name="robots" content="noindex" />
+    <link rel="alternate" href="http://www.multicolordrukarnia.pl/druk_kalendarzy_i_ulotek" hreflang="pl-PL" />
+    <link rel="alternate" href="http://www.multicolordrukarnia.pl/en/druk_kalendarzy_i_ulotek" hreflang="en" />
+    <link rel="alternate" href="http://www.multicolordrukarnia.pl/de/druk_kalendarzy_i_ulotek" hreflang="de" />
+    <link rel="alternate" hreflang="x-default" href="http://www.multicolordrukarnia.pl/" />
+<?php require_once('_header.php'); ?>
+
+<section class="flexographic-labels-index">
+    <section class="projects-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                <ol class="breadcrumb" itemscope="" itemtype="http://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+                        <a href="/" title="Multicolor" itemprop="item">
+                            <span itemprop="name">Strona główna</span>
+                            <meta itemprop="position" content="1">
+                        </a>
+                    </li>
+                    <li>»</li>
+                    <li class="active" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+                        <span itemprop="name">Etykiety fleksograficzne</span>
+                        <meta itemprop="position" content="2">
+                    </li>
+                </ol>
+                </div>
+            </div>
+            <div class="row main-row">
+                <div class="col-12">
+                    <div class="edit-area">
+                    <h1>Drukarnia etykiet fleksograficznych. Wysoka jakość wydruku na Twoich produktach</h1>
+					<p>Zależy Ci na wysokiej jakości wydruku etykiet na Twoich produktach? Chcesz wyróżnić się na tle konkurencji? Zamów <strong>etykiety fleksograficzne</strong>. Ta technologia druku daje możliwość zastosowania różnych technik dekoracyjnych. Dzięki temu gotowe etykiety prezentują się oryginalnie i pozwalają wyróżnić produkt. Drukujemy etykiety fleksograficzne na rozmaitych materiałach. Możemy wykonać projekt na foliach metalizowanych, czy też ultra clear. Zastosowanie takich rozwiązań poligraficznych w połączeniu z chwytliwym hasłem oraz ciekawą grafiką pozwoli Ci przyciągnąć nowych klientów zainteresowanych Twoimi wyrobami. </p>
+					<h2>Etykiety peel-off i booklet. Jeszcze więcej możliwości </h2>
+					<p>Czasami potrzebujesz oznaczenia, na którym przekażesz nieco więcej informacji niż tylko podstawowe dane. Rozwiązaniem w takiej sytuacji będą <strong>etykiety peel-off</strong> często spotykane również pod nazwą peel and read lub otwórz–zamknij. Ten rodzaj druku poligraficznego polega na umieszczeniu informacji zarówno na zewnątrz, jak i wewnątrz. Takie rozwiązania są powszechnie stosowane w branży chemicznej, farmaceutycznej, kosmetycznej, a także spożywczej. Jeśli tradycyjne <a href="/etykiety-samoprzylepne.php">etykiety samoprzylepne</a> nie są wystarczające w Twojej działalności, zamów partię peel-off. </p>
+					<p>Proponujemy również etykiety booklet (książeczkowe). Są to etykiety wielowarstwowe, złożone w sposób harmonijkowy. Sprawdzają się na niewielkich produktach, na których trzeba umieścić szereg informacji o ich składzie oraz zastosowaniu. Nie musisz wtedy dołączać ulotek i zastanawiać się jak zmieścić je do niedużego pudełka. Zamów etykiety booklet i umieść na nich wszystko, co potrzebujesz, aby przekazać swoim klientom rzetelne dane. </p>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+<?php require_once('_footer.php'); ?>
