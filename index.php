@@ -19,7 +19,7 @@
                             <a href="labels48h.php" class="slide">
                                 <img src="./static/image/slider/slider_onas_03.jpg" alt="test">
                             </a>
-							<a href="labels48h.php" class="slide">
+							<a href="etykieta-z-folii-hdpe.php" class="slide">
                                 <img src="./static/image/slider/slider_onas_04.jpg" alt="test">
                             </a>
                         </div>

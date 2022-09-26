@@ -31,14 +31,19 @@
                 </div>
             </div>
             <div class="row main-row">
-                <div class="col-12">
+                <!--<div class="col-12">
                     <div class="edit-area">
                     <h1>Połączenie etykiety z opakowaniem HDPE pozwala na pełny recykling.</h1>
 					<p>Opakowanie i etykieta z tego samego materiału umożliwia wyeliminowanie dodatkowych zabiegów (bez konieczności separacji papierowych etykiet od opakowania).</p>
 					<h2>Zwiększona trwałość i odporność etykiety dzięki zastosowaniu folii.</h2>
 					<!--<p>Czasami potrzebujesz oznaczenia, na którym przekażesz nieco więcej informacji niż tylko podstawowe dane. Rozwiązaniem w takiej sytuacji będą <strong>etykiety peel-off</strong> często spotykane również pod nazwą peel and read lub otwórz–zamknij. Ten rodzaj druku poligraficznego polega na umieszczeniu informacji zarówno na zewnątrz, jak i wewnątrz. Takie rozwiązania są powszechnie stosowane w branży chemicznej, farmaceutycznej, kosmetycznej, a także spożywczej. Jeśli tradycyjne <a href="/etykiety-samoprzylepne.php">etykiety samoprzylepne</a> nie są wystarczające w Twojej działalności, zamów partię peel-off. </p>
-					<p>Proponujemy również etykiety booklet (książeczkowe). Są to etykiety wielowarstwowe, złożone w sposób harmonijkowy. Sprawdzają się na niewielkich produktach, na których trzeba umieścić szereg informacji o ich składzie oraz zastosowaniu. Nie musisz wtedy dołączać ulotek i zastanawiać się jak zmieścić je do niedużego pudełka. Zamów etykiety booklet i umieść na nich wszystko, co potrzebujesz, aby przekazać swoim klientom rzetelne dane. </p>-->
+					<p>Proponujemy również etykiety booklet (książeczkowe). Są to etykiety wielowarstwowe, złożone w sposób harmonijkowy. Sprawdzają się na niewielkich produktach, na których trzeba umieścić szereg informacji o ich składzie oraz zastosowaniu. Nie musisz wtedy dołączać ulotek i zastanawiać się jak zmieścić je do niedużego pudełka. Zamów etykiety booklet i umieść na nich wszystko, co potrzebujesz, aby przekazać swoim klientom rzetelne dane. </p>
 
+                    </div>
+                </div>-->
+				<div class="col-12">
+                    <div class="thumb">
+                        <img src="./static/image/hdpe_strona.jpg" alt="HDPE" class="img-fluid">
                     </div>
                 </div>
             </div>
