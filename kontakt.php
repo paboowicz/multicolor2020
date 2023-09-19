@@ -45,7 +45,7 @@
                         <h3 class="heading-4 contact">Drukarnia Multicolor</h3>
                         <br>
                         <h3 class="heading-4 contact">Widna Góra</h3>
-                        <h3 class="heading-4 contact">ul. Roźwieniecka 111</h3>
+                        <h3 class="heading-4 contact">ul. Roźwienicka 111</h3>
                         <h3 class="heading-4 contact">37-500 Jarosław</h3>
                         <br>
                         <h3 class="heading-4 contact">NIP 792-121-58-80</h3>
