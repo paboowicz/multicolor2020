@@ -37,6 +37,15 @@
             <div class="row main-row">
                 <div class="col-12">
                     <div class="edit-area">
+					<h3>Drukarnia MULTICOLOR</h3>
+					<p> uzyskała dotację z Unii Europejskiej na projekt „Dywersyfikacja oferty produktowej drukarni MULTICOLOR poprzez wprowadzenie na rynek ekologicznych opakowań dla branży spożywczej”.</p><br>
+					<p>Głównym celem projektu jest rozwój i wzrost konkurencyjności firmy poprzez realizację inwestycji polegającej na dywersyfikacji produkcji polegającej na wprowadzeniu nowych produktów w postaci innowacyjnej serii ekologicznych opakowań dla przemysłu spożywczego.
+Cele operacyjne projektu związane są z rozbudową bazy maszynowej zakładu poprzez nabycie urządzenia umożliwiającego druk z wykorzystaniem ekologicznych, niskomigracyjnych farb drukarskich na opakowaniach z papieru i tektury, przystosowanych do kontaktu z żywnością.
+Realizacja inwestycji pozwoli zdywersyfikować działalność firmy w zakresie pozyskania nowych grup odbiorców – producentów produktów mrożonych, w tym m.in. piekarni, zakładów garmażeryjnych, cukierni.
+Z projektu korzystać będą pracownicy, którzy uczestniczą w procesach powstawania nowych produktów i osoby zarządzające innowacjami w Drukarni MULTICOLOR.<br><br>
+Wartość projektu : 5 811 750,00 zł<br>
+Wysokość wkładu z Funduszy Europejskich: 2100000,00 zł</p><br>
+					<br>
 						<h3>BUJAK KRZYSZTOF ZAKŁAD WIELOBRANŻOWY DRUKARNIA "MULTICOLOR"</h3>
 <p>z siedzibą Widna Góra ul. Roźwieniecka 111, 37-500 Jarosław<br>
 informuje, iż zawarta została umowa nr POPW.01.03.01-18-0036/20 na realizację projektu pn. “ Rozwój i wzrost konkurencyjności Drukarni MULTICOLOR poprzez wdrożenie na rynek innowacyjnej etykiety produktowej”
