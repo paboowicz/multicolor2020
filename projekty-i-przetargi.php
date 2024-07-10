@@ -46,6 +46,8 @@ Z projektu korzystać będą pracownicy, którzy uczestniczą w procesach powsta
 Wartość projektu : 5 811 750,00 zł<br>
 Wysokość wkładu z Funduszy Europejskich: 2100000,00 zł</p><br>
 					<br>
+					<img src="./static/image/pasek-eu.jpg" alt="unia" class="d-block" style="height: 80px">
+                        <hr>
 						<h3>BUJAK KRZYSZTOF ZAKŁAD WIELOBRANŻOWY DRUKARNIA "MULTICOLOR"</h3>
 <p>z siedzibą Widna Góra ul. Roźwieniecka 111, 37-500 Jarosław<br>
 informuje, iż zawarta została umowa nr POPW.01.03.01-18-0036/20 na realizację projektu pn. “ Rozwój i wzrost konkurencyjności Drukarni MULTICOLOR poprzez wdrożenie na rynek innowacyjnej etykiety produktowej”
