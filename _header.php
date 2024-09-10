@@ -67,6 +67,7 @@
                                 <li><a href="/etykiety-fleksograficzne.php">Etykiety fleksograficzne</a></li>
                                 <li><a href="/projekty-i-przetargi.php">Projekty i przetargi</a></li>
                                 <li><a href="/etykieta-z-folii-hdpe.php">Etykieta z folii HDPE</a></li>
+								<li><a href="/ekologiczne-opakowania-spozywcze.php">Ekologiczne opakowania dla branży spożywczej</a></li>
                             </ul>
                             </div>
                     </li>
