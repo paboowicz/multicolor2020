@@ -71,12 +71,12 @@ Przekąska po rozpakowaniu z zewnętrznego worka  / pudełka (a), znajduje się 
                 </div>
 				<div class="col-12">
                     <div class="thumb">
-                        <img src="./static/image/opakowania-spozywcze/fb-1.jpg" alt="HDPE" class="img-fluid">						
+                        <img src="./static/image/opakowania-spozywcze/fb-2.jpg" alt="HDPE" class="img-fluid">						
                     </div>
                 </div>
 				<div class="col-12">
                     <div class="thumb">
-                        <img src="./static/image/opakowania-spozywcze/fb-1.jpg" alt="HDPE" class="img-fluid">						
+                        <img src="./static/image/opakowania-spozywcze/fb-3.jpg" alt="HDPE" class="img-fluid">						
                     </div>
                 </div>
             </div>
