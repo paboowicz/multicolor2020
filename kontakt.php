@@ -79,13 +79,18 @@
                             width="100%" height="550" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
                 </div>
             </div>
-
-
+			
+			<div class="edit-area-1">
+                <h4 class="download-text">Do pobrania:</h4>
+                <a href="./static/image/polityka_praw_pracowniczych.pdf" target="_blank" class="download-link">Polityka praw pracowniczych</a>
+			</div>
+			<br>
             <div class="row thumb-row">
                 <div class="col-12">
                     <img src="./static/image/multicolor_motyw_03.webp" alt="motyw">
                 </div>
             </div>
+				
         </div>
     </section>
 
